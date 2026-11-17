@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="805bdc00-9cfe-4687-b656-4f4fd422d0be" name="Camcorder_IM1_Projekt_Rocco" url="https://www.camcorder.bisatedu.myhostpoint.ch">
+        <fileTransfer host="sl2679.web.hostpoint.ch" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
